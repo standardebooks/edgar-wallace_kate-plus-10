@@ -48,7 +48,7 @@
 		<meta property="term" refines="#subject-5">sh2008108646</meta>
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Mystery</meta>
-		<dc:abstract>A police inspector investigates an enigmatic young woman and her connection with various criminal activities.</dc:abstract>
+		<meta property="schema:abstract">A police inspector investigates an enigmatic young woman and her connection with various criminal activities.</meta>
 		<dc:description>
 			&lt;p&gt;Scotland Yard Inspector Michael Pretherston has been called to attend a case of missing jewelry at Lord Flanborough’s home. While investigating, Inspector Pretherston comes across a familiar face—and an intriguing mystery to challenge his skills and intellect: a woman by the name of Katharine Westhanger.&lt;/p&gt;
 			&lt;p&gt;Kate has been a person of interest in various capers across Europe despite her innocent looks and charming personality. The use of a false identity is unlikely to be an attempt to distance herself from the tainted reputation of the Westhanger name, but what lies behind her latest appearance in London and recent association with the rich and powerful?&lt;/p&gt;
