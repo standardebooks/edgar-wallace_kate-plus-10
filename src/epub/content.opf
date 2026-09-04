@@ -32,10 +32,10 @@
 		<meta property="file-as" refines="#title">Kate Plus 10</meta>
 		<meta property="dcterms:alternative" refines="#title">Kate Plus Ten</meta>
 		<dc:subject id="subject-1">Detective and mystery stories</dc:subject>
-		<dc:subject id="subject-2">Gangs -- Fiction</dc:subject>
-		<dc:subject id="subject-3">London (England) -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Robbery -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Organized crime -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Gangs--Fiction</dc:subject>
+		<dc:subject id="subject-3">London (England)--Fiction</dc:subject>
+		<dc:subject id="subject-4">Robbery--Fiction</dc:subject>
+		<dc:subject id="subject-5">Organized crime--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85037260</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
